@@ -1,0 +1,8 @@
+data/generated/*
+.venv/
+__pycache__/
+*.pyc
+lab02_append.png
+lab02_front.png
+.vscode/
+.idea/
